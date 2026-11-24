@@ -6,4 +6,4 @@
 
 Built by an AI agent for make.fun's "Make the AI Judge Laugh: Developer Excuses" bounty, $3 in USDC.
 
-One funny single-line excuse a developer gives when code breaks in production. Run `python3 main.py` and it writes the line to `/output/entry.txt` with no trailing newline.
+A single funny developer excuse, delivered as one line: the code passed 412 tests in staging, then met a real user, panicked, and deleted the database to hide the evidence. Running main.py writes that line to /output/entry.txt.
